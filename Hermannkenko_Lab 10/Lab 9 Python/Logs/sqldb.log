@@ -1,0 +1,100 @@
+2025-04-27 19:14:01,319 | sqldb | INFO | User login success
+2025-04-27 19:14:01,320 | sqldb | ERROR | System failure
+2025-04-27 19:14:01,323 | sqldb | CRITICAL | User login success
+2025-04-27 19:14:01,323 | sqldb | INFO | Service timeout
+2025-04-27 19:14:01,323 | sqldb | ERROR | System failure
+2025-04-27 19:14:01,323 | sqldb | CRITICAL | Configuration loaded
+2025-04-27 19:14:01,323 | sqldb | ERROR | Database corruption
+2025-04-27 19:14:01,323 | sqldb | INFO | Cache miss
+2025-04-27 19:14:01,323 | sqldb | INFO | Cache miss
+2025-04-27 19:14:01,323 | sqldb | WARNING | Configuration loaded
+2025-04-27 19:14:01,323 | sqldb | INFO | Disk failure detected
+2025-04-27 19:14:01,323 | sqldb | CRITICAL | Database corruption
+2025-04-27 19:14:01,339 | sqldb | INFO | Configuration loaded
+2025-04-27 19:14:01,341 | sqldb | CRITICAL | Service timeout
+2025-04-27 19:14:01,341 | sqldb | CRITICAL | API response delayed
+2025-04-27 19:14:01,341 | sqldb | WARNING | System failure
+2025-04-27 19:14:01,341 | sqldb | WARNING | Unhandled exception
+2025-04-27 19:14:01,341 | sqldb | ERROR | Configuration loaded
+2025-04-27 19:14:01,341 | sqldb | ERROR | System failure
+2025-04-27 19:14:01,341 | sqldb | ERROR | Service timeout
+2025-04-27 19:14:01,341 | sqldb | ERROR | API response delayed
+2025-04-27 19:14:01,341 | sqldb | CRITICAL | Memory leak detected
+2025-04-27 19:14:01,341 | sqldb | INFO | API response delayed
+2025-04-27 19:14:01,341 | sqldb | WARNING | System failure
+2025-04-27 19:14:01,341 | sqldb | ERROR | Database corruption
+2025-04-27 19:14:01,341 | sqldb | CRITICAL | Unhandled exception
+2025-04-27 19:14:01,341 | sqldb | INFO | User login success
+2025-04-27 19:14:01,341 | sqldb | ERROR | Unhandled exception
+2025-04-27 19:14:01,341 | sqldb | WARNING | Configuration loaded
+2025-04-27 19:14:01,341 | sqldb | WARNING | User login success
+2025-04-27 19:14:01,341 | sqldb | ERROR | Memory leak detected
+2025-04-27 19:14:01,341 | sqldb | ERROR | Service timeout
+2025-04-27 19:14:01,341 | sqldb | CRITICAL | System failure
+2025-04-27 19:14:01,344 | sqldb | WARNING | Memory leak detected
+2025-04-27 19:14:01,344 | sqldb | CRITICAL | Disk failure detected
+2025-04-27 19:14:01,344 | sqldb | WARNING | User login success
+2025-04-27 19:14:01,344 | sqldb | INFO | API response delayed
+2025-04-27 19:14:01,344 | sqldb | INFO | Configuration loaded
+2025-04-27 19:14:01,344 | sqldb | CRITICAL | Database corruption
+2025-04-27 19:14:01,344 | sqldb | INFO | Service timeout
+2025-04-27 19:14:01,344 | sqldb | ERROR | Database corruption
+2025-04-27 19:14:01,344 | sqldb | CRITICAL | User login success
+2025-04-27 19:14:01,344 | sqldb | CRITICAL | User login success
+2025-04-27 19:14:01,344 | sqldb | CRITICAL | Cache miss
+2025-04-27 19:14:01,344 | sqldb | CRITICAL | Service timeout
+2025-04-27 19:14:01,344 | sqldb | WARNING | System failure
+2025-04-27 19:14:01,344 | sqldb | INFO | Disk failure detected
+2025-04-27 19:14:01,344 | sqldb | WARNING | Unhandled exception
+2025-04-27 19:14:01,345 | sqldb | INFO | Memory leak detected
+2025-04-27 19:14:01,345 | sqldb | INFO | Cache miss
+2025-04-27 19:16:18,725 | sqldb | ERROR | Disk failure detected
+2025-04-27 19:16:18,725 | sqldb | CRITICAL | System failure
+2025-04-27 19:16:18,725 | sqldb | INFO | Unhandled exception
+2025-04-27 19:16:18,725 | sqldb | CRITICAL | Cache miss
+2025-04-27 19:16:18,725 | sqldb | ERROR | Cache miss
+2025-04-27 19:16:18,727 | sqldb | CRITICAL | Memory leak detected
+2025-04-27 19:16:18,727 | sqldb | ERROR | System failure
+2025-04-27 19:16:18,727 | sqldb | WARNING | System failure
+2025-04-27 19:16:18,727 | sqldb | INFO | User login success
+2025-04-27 19:16:18,727 | sqldb | CRITICAL | API response delayed
+2025-04-27 19:16:18,727 | sqldb | INFO | User login success
+2025-04-27 19:16:18,727 | sqldb | ERROR | Database corruption
+2025-04-27 19:16:18,727 | sqldb | ERROR | API response delayed
+2025-04-27 19:16:18,727 | sqldb | WARNING | System failure
+2025-04-27 19:16:18,727 | sqldb | CRITICAL | Memory leak detected
+2025-04-27 19:16:18,727 | sqldb | CRITICAL | Database corruption
+2025-04-27 19:16:18,727 | sqldb | WARNING | Database corruption
+2025-04-27 19:16:18,727 | sqldb | ERROR | Disk failure detected
+2025-04-27 19:16:18,727 | sqldb | CRITICAL | User login success
+2025-04-27 19:16:18,727 | sqldb | INFO | Configuration loaded
+2025-04-27 19:16:18,727 | sqldb | INFO | Memory leak detected
+2025-04-27 19:16:18,727 | sqldb | INFO | API response delayed
+2025-04-27 19:16:18,727 | sqldb | INFO | Cache miss
+2025-04-27 19:16:18,727 | sqldb | CRITICAL | API response delayed
+2025-04-27 19:16:18,727 | sqldb | ERROR | Cache miss
+2025-04-27 19:16:18,729 | sqldb | INFO | Disk failure detected
+2025-04-27 19:16:18,729 | sqldb | CRITICAL | Unhandled exception
+2025-04-27 19:16:18,729 | sqldb | WARNING | Service timeout
+2025-04-27 19:16:18,729 | sqldb | ERROR | User login success
+2025-04-27 19:16:18,729 | sqldb | INFO | Cache miss
+2025-04-27 19:16:18,729 | sqldb | INFO | Database corruption
+2025-04-27 19:16:18,729 | sqldb | INFO | System failure
+2025-04-27 19:16:18,729 | sqldb | INFO | Unhandled exception
+2025-04-27 19:16:18,729 | sqldb | INFO | Disk failure detected
+2025-04-27 19:16:18,729 | sqldb | ERROR | Memory leak detected
+2025-04-27 19:16:18,729 | sqldb | WARNING | Configuration loaded
+2025-04-27 19:16:18,729 | sqldb | WARNING | Cache miss
+2025-04-27 19:16:18,729 | sqldb | INFO | Disk failure detected
+2025-04-27 19:16:18,731 | sqldb | WARNING | Database corruption
+2025-04-27 19:16:18,731 | sqldb | WARNING | System failure
+2025-04-27 19:16:18,731 | sqldb | WARNING | System failure
+2025-04-27 19:16:18,731 | sqldb | INFO | API response delayed
+2025-04-27 19:16:18,731 | sqldb | ERROR | Database corruption
+2025-04-27 19:16:18,731 | sqldb | ERROR | API response delayed
+2025-04-27 19:16:18,731 | sqldb | WARNING | Service timeout
+2025-04-27 19:16:18,731 | sqldb | WARNING | Service timeout
+2025-04-27 19:16:18,731 | sqldb | INFO | Memory leak detected
+2025-04-27 19:16:18,731 | sqldb | CRITICAL | Unhandled exception
+2025-04-27 19:16:18,731 | sqldb | ERROR | System failure
+2025-04-27 19:16:18,732 | sqldb | WARNING | Configuration loaded

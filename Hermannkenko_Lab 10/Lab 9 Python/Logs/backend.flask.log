@@ -1,0 +1,100 @@
+2025-04-27 19:14:01,382 | backend.flask | WARNING | User login success
+2025-04-27 19:14:01,382 | backend.flask | ERROR | Unhandled exception
+2025-04-27 19:14:01,382 | backend.flask | ERROR | Service timeout
+2025-04-27 19:14:01,382 | backend.flask | CRITICAL | Disk failure detected
+2025-04-27 19:14:01,382 | backend.flask | ERROR | Unhandled exception
+2025-04-27 19:14:01,384 | backend.flask | INFO | Disk failure detected
+2025-04-27 19:14:01,384 | backend.flask | INFO | Memory leak detected
+2025-04-27 19:14:01,384 | backend.flask | WARNING | Cache miss
+2025-04-27 19:14:01,384 | backend.flask | ERROR | Service timeout
+2025-04-27 19:14:01,384 | backend.flask | INFO | Memory leak detected
+2025-04-27 19:14:01,384 | backend.flask | WARNING | Memory leak detected
+2025-04-27 19:14:01,384 | backend.flask | ERROR | Configuration loaded
+2025-04-27 19:14:01,384 | backend.flask | WARNING | API response delayed
+2025-04-27 19:14:01,384 | backend.flask | ERROR | Disk failure detected
+2025-04-27 19:14:01,384 | backend.flask | CRITICAL | API response delayed
+2025-04-27 19:14:01,384 | backend.flask | CRITICAL | API response delayed
+2025-04-27 19:14:01,384 | backend.flask | INFO | API response delayed
+2025-04-27 19:14:01,384 | backend.flask | INFO | Cache miss
+2025-04-27 19:14:01,384 | backend.flask | ERROR | System failure
+2025-04-27 19:14:01,384 | backend.flask | WARNING | System failure
+2025-04-27 19:14:01,384 | backend.flask | CRITICAL | Disk failure detected
+2025-04-27 19:14:01,384 | backend.flask | CRITICAL | User login success
+2025-04-27 19:14:01,384 | backend.flask | WARNING | Cache miss
+2025-04-27 19:14:01,384 | backend.flask | WARNING | User login success
+2025-04-27 19:14:01,384 | backend.flask | CRITICAL | Memory leak detected
+2025-04-27 19:14:01,384 | backend.flask | INFO | System failure
+2025-04-27 19:14:01,384 | backend.flask | CRITICAL | Service timeout
+2025-04-27 19:14:01,384 | backend.flask | INFO | Unhandled exception
+2025-04-27 19:14:01,384 | backend.flask | ERROR | API response delayed
+2025-04-27 19:14:01,384 | backend.flask | ERROR | Memory leak detected
+2025-04-27 19:14:01,384 | backend.flask | WARNING | Memory leak detected
+2025-04-27 19:14:01,384 | backend.flask | WARNING | User login success
+2025-04-27 19:14:01,384 | backend.flask | CRITICAL | Database corruption
+2025-04-27 19:14:01,384 | backend.flask | WARNING | API response delayed
+2025-04-27 19:14:01,384 | backend.flask | INFO | Cache miss
+2025-04-27 19:14:01,384 | backend.flask | ERROR | Service timeout
+2025-04-27 19:14:01,384 | backend.flask | INFO | Unhandled exception
+2025-04-27 19:14:01,384 | backend.flask | INFO | User login success
+2025-04-27 19:14:01,384 | backend.flask | INFO | Service timeout
+2025-04-27 19:14:01,384 | backend.flask | WARNING | Cache miss
+2025-04-27 19:14:01,384 | backend.flask | WARNING | Cache miss
+2025-04-27 19:14:01,384 | backend.flask | INFO | Disk failure detected
+2025-04-27 19:14:01,384 | backend.flask | CRITICAL | Service timeout
+2025-04-27 19:14:01,384 | backend.flask | CRITICAL | Configuration loaded
+2025-04-27 19:14:01,384 | backend.flask | WARNING | Configuration loaded
+2025-04-27 19:14:01,384 | backend.flask | ERROR | Unhandled exception
+2025-04-27 19:14:01,384 | backend.flask | CRITICAL | Unhandled exception
+2025-04-27 19:14:01,384 | backend.flask | WARNING | Database corruption
+2025-04-27 19:14:01,384 | backend.flask | ERROR | Cache miss
+2025-04-27 19:14:01,384 | backend.flask | ERROR | API response delayed
+2025-04-27 19:16:18,750 | backend.flask | ERROR | System failure
+2025-04-27 19:16:18,750 | backend.flask | CRITICAL | Memory leak detected
+2025-04-27 19:16:18,750 | backend.flask | ERROR | Memory leak detected
+2025-04-27 19:16:18,750 | backend.flask | ERROR | Cache miss
+2025-04-27 19:16:18,750 | backend.flask | ERROR | Unhandled exception
+2025-04-27 19:16:18,750 | backend.flask | WARNING | API response delayed
+2025-04-27 19:16:18,750 | backend.flask | ERROR | User login success
+2025-04-27 19:16:18,750 | backend.flask | CRITICAL | Unhandled exception
+2025-04-27 19:16:18,750 | backend.flask | WARNING | User login success
+2025-04-27 19:16:18,750 | backend.flask | WARNING | API response delayed
+2025-04-27 19:16:18,750 | backend.flask | INFO | API response delayed
+2025-04-27 19:16:18,757 | backend.flask | ERROR | Cache miss
+2025-04-27 19:16:18,757 | backend.flask | ERROR | Memory leak detected
+2025-04-27 19:16:18,757 | backend.flask | ERROR | Database corruption
+2025-04-27 19:16:18,757 | backend.flask | ERROR | Unhandled exception
+2025-04-27 19:16:18,757 | backend.flask | ERROR | User login success
+2025-04-27 19:16:18,757 | backend.flask | WARNING | Service timeout
+2025-04-27 19:16:18,757 | backend.flask | WARNING | Memory leak detected
+2025-04-27 19:16:18,757 | backend.flask | CRITICAL | Cache miss
+2025-04-27 19:16:18,757 | backend.flask | INFO | Cache miss
+2025-04-27 19:16:18,757 | backend.flask | INFO | Unhandled exception
+2025-04-27 19:16:18,757 | backend.flask | CRITICAL | User login success
+2025-04-27 19:16:18,757 | backend.flask | WARNING | Database corruption
+2025-04-27 19:16:18,759 | backend.flask | INFO | API response delayed
+2025-04-27 19:16:18,759 | backend.flask | WARNING | API response delayed
+2025-04-27 19:16:18,759 | backend.flask | WARNING | Unhandled exception
+2025-04-27 19:16:18,759 | backend.flask | CRITICAL | Configuration loaded
+2025-04-27 19:16:18,759 | backend.flask | ERROR | Configuration loaded
+2025-04-27 19:16:18,759 | backend.flask | CRITICAL | Service timeout
+2025-04-27 19:16:18,759 | backend.flask | WARNING | Database corruption
+2025-04-27 19:16:18,759 | backend.flask | ERROR | Cache miss
+2025-04-27 19:16:18,759 | backend.flask | CRITICAL | Configuration loaded
+2025-04-27 19:16:18,760 | backend.flask | WARNING | Memory leak detected
+2025-04-27 19:16:18,760 | backend.flask | WARNING | System failure
+2025-04-27 19:16:18,760 | backend.flask | INFO | Unhandled exception
+2025-04-27 19:16:18,760 | backend.flask | WARNING | Service timeout
+2025-04-27 19:16:18,760 | backend.flask | CRITICAL | Memory leak detected
+2025-04-27 19:16:18,760 | backend.flask | WARNING | Unhandled exception
+2025-04-27 19:16:18,760 | backend.flask | CRITICAL | Configuration loaded
+2025-04-27 19:16:18,760 | backend.flask | ERROR | Unhandled exception
+2025-04-27 19:16:18,760 | backend.flask | ERROR | Memory leak detected
+2025-04-27 19:16:18,760 | backend.flask | ERROR | Database corruption
+2025-04-27 19:16:18,760 | backend.flask | WARNING | System failure
+2025-04-27 19:16:18,760 | backend.flask | WARNING | Database corruption
+2025-04-27 19:16:18,760 | backend.flask | ERROR | User login success
+2025-04-27 19:16:18,760 | backend.flask | WARNING | Unhandled exception
+2025-04-27 19:16:18,760 | backend.flask | ERROR | Service timeout
+2025-04-27 19:16:18,760 | backend.flask | CRITICAL | Database corruption
+2025-04-27 19:16:18,760 | backend.flask | WARNING | Cache miss
+2025-04-27 19:16:18,760 | backend.flask | INFO | System failure

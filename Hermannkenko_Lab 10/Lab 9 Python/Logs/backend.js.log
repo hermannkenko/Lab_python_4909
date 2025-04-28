@@ -1,0 +1,100 @@
+2025-04-27 19:14:01,359 | backend.js | INFO | System failure
+2025-04-27 19:14:01,359 | backend.js | CRITICAL | User login success
+2025-04-27 19:14:01,359 | backend.js | WARNING | API response delayed
+2025-04-27 19:14:01,359 | backend.js | INFO | User login success
+2025-04-27 19:14:01,359 | backend.js | ERROR | Service timeout
+2025-04-27 19:14:01,359 | backend.js | INFO | Cache miss
+2025-04-27 19:14:01,359 | backend.js | WARNING | Unhandled exception
+2025-04-27 19:14:01,359 | backend.js | INFO | Configuration loaded
+2025-04-27 19:14:01,359 | backend.js | INFO | API response delayed
+2025-04-27 19:14:01,359 | backend.js | WARNING | Memory leak detected
+2025-04-27 19:14:01,363 | backend.js | INFO | Disk failure detected
+2025-04-27 19:14:01,363 | backend.js | WARNING | System failure
+2025-04-27 19:14:01,363 | backend.js | CRITICAL | System failure
+2025-04-27 19:14:01,363 | backend.js | CRITICAL | Cache miss
+2025-04-27 19:14:01,363 | backend.js | CRITICAL | Cache miss
+2025-04-27 19:14:01,363 | backend.js | WARNING | Configuration loaded
+2025-04-27 19:14:01,363 | backend.js | INFO | Disk failure detected
+2025-04-27 19:14:01,363 | backend.js | WARNING | Cache miss
+2025-04-27 19:14:01,363 | backend.js | CRITICAL | User login success
+2025-04-27 19:14:01,363 | backend.js | WARNING | Cache miss
+2025-04-27 19:14:01,363 | backend.js | CRITICAL | Configuration loaded
+2025-04-27 19:14:01,363 | backend.js | WARNING | User login success
+2025-04-27 19:14:01,363 | backend.js | CRITICAL | API response delayed
+2025-04-27 19:14:01,363 | backend.js | INFO | Cache miss
+2025-04-27 19:14:01,363 | backend.js | WARNING | Disk failure detected
+2025-04-27 19:14:01,366 | backend.js | ERROR | API response delayed
+2025-04-27 19:14:01,366 | backend.js | INFO | Memory leak detected
+2025-04-27 19:14:01,366 | backend.js | ERROR | Unhandled exception
+2025-04-27 19:14:01,366 | backend.js | CRITICAL | Database corruption
+2025-04-27 19:14:01,366 | backend.js | CRITICAL | Disk failure detected
+2025-04-27 19:14:01,366 | backend.js | WARNING | API response delayed
+2025-04-27 19:14:01,366 | backend.js | ERROR | Configuration loaded
+2025-04-27 19:14:01,366 | backend.js | WARNING | API response delayed
+2025-04-27 19:14:01,366 | backend.js | INFO | Memory leak detected
+2025-04-27 19:14:01,366 | backend.js | CRITICAL | Service timeout
+2025-04-27 19:14:01,366 | backend.js | INFO | Database corruption
+2025-04-27 19:14:01,366 | backend.js | WARNING | Service timeout
+2025-04-27 19:14:01,366 | backend.js | CRITICAL | Cache miss
+2025-04-27 19:14:01,368 | backend.js | ERROR | Database corruption
+2025-04-27 19:14:01,368 | backend.js | WARNING | System failure
+2025-04-27 19:14:01,368 | backend.js | ERROR | Configuration loaded
+2025-04-27 19:14:01,368 | backend.js | CRITICAL | Unhandled exception
+2025-04-27 19:14:01,368 | backend.js | ERROR | Database corruption
+2025-04-27 19:14:01,368 | backend.js | ERROR | Disk failure detected
+2025-04-27 19:14:01,368 | backend.js | INFO | Disk failure detected
+2025-04-27 19:14:01,368 | backend.js | ERROR | Memory leak detected
+2025-04-27 19:14:01,368 | backend.js | WARNING | Unhandled exception
+2025-04-27 19:14:01,368 | backend.js | WARNING | Memory leak detected
+2025-04-27 19:14:01,368 | backend.js | ERROR | User login success
+2025-04-27 19:14:01,368 | backend.js | CRITICAL | Unhandled exception
+2025-04-27 19:16:18,742 | backend.js | ERROR | Configuration loaded
+2025-04-27 19:16:18,742 | backend.js | CRITICAL | Database corruption
+2025-04-27 19:16:18,742 | backend.js | WARNING | Memory leak detected
+2025-04-27 19:16:18,742 | backend.js | ERROR | Cache miss
+2025-04-27 19:16:18,746 | backend.js | ERROR | Memory leak detected
+2025-04-27 19:16:18,746 | backend.js | INFO | Cache miss
+2025-04-27 19:16:18,746 | backend.js | INFO | API response delayed
+2025-04-27 19:16:18,746 | backend.js | ERROR | Service timeout
+2025-04-27 19:16:18,746 | backend.js | CRITICAL | User login success
+2025-04-27 19:16:18,746 | backend.js | ERROR | Cache miss
+2025-04-27 19:16:18,746 | backend.js | ERROR | System failure
+2025-04-27 19:16:18,746 | backend.js | INFO | Configuration loaded
+2025-04-27 19:16:18,746 | backend.js | INFO | Configuration loaded
+2025-04-27 19:16:18,746 | backend.js | INFO | Configuration loaded
+2025-04-27 19:16:18,746 | backend.js | WARNING | Cache miss
+2025-04-27 19:16:18,746 | backend.js | INFO | Service timeout
+2025-04-27 19:16:18,747 | backend.js | ERROR | Cache miss
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | System failure
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | Configuration loaded
+2025-04-27 19:16:18,747 | backend.js | WARNING | API response delayed
+2025-04-27 19:16:18,747 | backend.js | INFO | Cache miss
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | Memory leak detected
+2025-04-27 19:16:18,747 | backend.js | WARNING | System failure
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | Memory leak detected
+2025-04-27 19:16:18,747 | backend.js | INFO | API response delayed
+2025-04-27 19:16:18,747 | backend.js | ERROR | System failure
+2025-04-27 19:16:18,747 | backend.js | INFO | Configuration loaded
+2025-04-27 19:16:18,747 | backend.js | INFO | User login success
+2025-04-27 19:16:18,747 | backend.js | WARNING | Service timeout
+2025-04-27 19:16:18,747 | backend.js | INFO | Memory leak detected
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | System failure
+2025-04-27 19:16:18,747 | backend.js | INFO | Disk failure detected
+2025-04-27 19:16:18,747 | backend.js | INFO | User login success
+2025-04-27 19:16:18,747 | backend.js | INFO | Service timeout
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | Cache miss
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | User login success
+2025-04-27 19:16:18,747 | backend.js | ERROR | Disk failure detected
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | User login success
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | Service timeout
+2025-04-27 19:16:18,747 | backend.js | ERROR | Service timeout
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | System failure
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | Configuration loaded
+2025-04-27 19:16:18,747 | backend.js | WARNING | Memory leak detected
+2025-04-27 19:16:18,747 | backend.js | INFO | Memory leak detected
+2025-04-27 19:16:18,747 | backend.js | INFO | Cache miss
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | API response delayed
+2025-04-27 19:16:18,747 | backend.js | WARNING | Database corruption
+2025-04-27 19:16:18,747 | backend.js | CRITICAL | Unhandled exception
+2025-04-27 19:16:18,747 | backend.js | WARNING | Configuration loaded
+2025-04-27 19:16:18,750 | backend.js | CRITICAL | Memory leak detected
